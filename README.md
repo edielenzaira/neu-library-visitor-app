@@ -71,8 +71,11 @@ ________________________________________
 
 ## 📂 Project Structure
 • **src/app**: Next.js 15 App Router pages, layouts, and API routes.
+
 • **src/components**: Reusable ShadCN components and specialized dashboard widgets.
+
 • **src/firebase**: Configuration, specialized hooks (useCollection, useDoc), and data mutation utilities.
+
 • **src/lib**: Core utility functions, logic for "Reason for Visit" categorization, and TypeScript definitions.
 
 ________________________________________
